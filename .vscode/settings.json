@@ -8,3 +8,9 @@
         }
     ]
 }
+  "files.exclude": {
+    "**/.gitignore": true,
+    "**/.git": true,
+    "**/.vscode": true
+  }
+}
