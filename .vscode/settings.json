@@ -1,0 +1,10 @@
+{
+    "actions": [],
+    "sqltools.connections": [
+        {
+            "dialect": "SQLite",
+            "name": "MyDBAccess",
+            "database": "/home/user/projects/rajeshcapm/rajesh.db"
+        }
+    ]
+}
