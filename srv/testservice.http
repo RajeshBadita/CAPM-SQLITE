@@ -1,7 +1,7 @@
-GET http://localhost:4004/sap/opu/odata/sap/API_SALES_ORDER/OrderSet?$top=2&$filter=grossamount le 8500
+GET http://localhost:45261/sap/opu/odata/sap/API_SALES_ORDER/OrderSet?$top=2&$filter=grossamount le 8500
 
 ###
-POST http://localhost:4004/sap/opu/odata/sap/API_SALES_ORDER/OrderSet
+POST http://localhost:45261/sap/opu/odata/sap/API_SALES_ORDER/OrderSet
 Content-Type: application/json;IEEE754Compatible=true
 
 {"orderid":7001,"customername":"Rajesh","contactperson":"Rajesh Badita",
